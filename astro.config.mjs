@@ -6,6 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  site: 'https://creativetimofficial.github.io',
-  base: '/astro-ecommerce'
+  site: 'https://RedViper-2015.github.io',
+  base: '/ecommerce'
 });
